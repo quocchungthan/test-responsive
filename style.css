@@ -1,0 +1,4 @@
+.container {
+    background-color: rgba(212, 122, 122, 0.507);
+    padding: var(--page-padding);
+}
